@@ -18,14 +18,10 @@
             </div>
         </section>
 
-        <!-- newsletter -->
+        <!-- Divider -->
         <section class="bg-secondary text-white  p-2">
             <div class="container">
-                <div class="d-md-flex justify-content-between align-items-center">
-                    <h3 class="mb-3 mb-md-0"> Recents </h3>
-
-                    </div>
-                </div>
+                <h3 class="mb-2 mb-md-0"> Recents </h3>
             </div>
         </section>
 
