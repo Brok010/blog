@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-3">
     <div class="container">
-        <a href="#" class="navbar-brand">Brok's blog</a>
+        <a href="/blog/index.php" class="navbar-brand">Brok's blog</a>
         <button class="navbar-toggler" 
             type="button" 
             data-bs-toggle="collapse" 
@@ -12,16 +12,16 @@
         <div class="collapse navbar-collapse">
             <ul class="navbar-nav">
                 <li class="nav-item mx-2">
-                    <a href="travel.php" class="nav-link">Travel</a>
+                    <a href="/blog/travel.php" class="nav-link">Travel</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="sport.php" class="nav-link">Sport</a>
+                    <a href="/blog/sport.php" class="nav-link">Sport</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="index.php" class="nav-link">About me</a>
+                    <a href="/blog/index.php" class="nav-link">About me</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="index.php" class="nav-link">Contact</a>
+                    <a href="/blog/index.php" class="nav-link">Contact</a>
                 </li>
             </ul>
         </div>

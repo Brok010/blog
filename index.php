@@ -62,48 +62,21 @@
                     <div class="col-md">
                         <div class="card bg-dark text-white">
                             <div class="card-body text-center">
-                                <div class="h1 mb-3">
-                                    <i class="bi bi-bar-chart-fill"></i>
-                                </div>
-                                <h3 class="card-title mb-3">
-                                    Card 1
-                                </h3>
-                                <p class="card-text">
-                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus harum corrupti dolores ad iste impedit maiores autem consequuntur blanditiis est tempora expedita deserunt quo alias pariatur eveniet, soluta quia ullam?
-                                </p>
-                                <a href="#" class="btn btn-secondary">Read more</a>
+                                <?php include('cards/card-Khao-Chang-Phueak.php'); ?>
                             </div>
                         </div>
                     </div>
                     <div class="col-md">
                         <div class="card bg-secondary text-white">
                             <div class="card-body text-center">
-                                <div class="h1 mb-3">
-                                    <i class="bi bi-bar-chart-fill"></i>
-                                </div>
-                                <h3 class="card-title mb-3">
-                                    Card 2
-                                </h3>
-                                <p class="card-text">
-                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus harum corrupti dolores ad iste impedit maiores autem consequuntur blanditiis est tempora expedita deserunt quo alias pariatur eveniet, soluta quia ullam?
-                                </p>
-                                <a href="#" class="btn btn-light">Read more</a>
+                                <?php include('cards/card-Muand-Ngoy.php'); ?>
                             </div>
                         </div>
                     </div>
                     <div class="col-md">
                         <div class="card bg-white text-dark">
                             <div class="card-body text-center">
-                                <div class="h1 mb-3">
-                                    <i class="bi bi-bar-chart-fill"></i>
-                                </div>
-                                <h3 class="card-title mb-3">
-                                    Card 3
-                                </h3>
-                                <p class="card-text">
-                                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Temporibus harum corrupti dolores ad iste impedit maiores autem consequuntur blanditiis est tempora expedita deserunt quo alias pariatur eveniet, soluta quia ullam?
-                                </p>
-                                <a href="#" class="btn btn-dark">Read more</a>
+                                <?php include('cards/card-Wadi-Numeira.php'); ?>
                             </div>
                         </div>
                     </div>
