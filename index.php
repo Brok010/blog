@@ -69,7 +69,7 @@
                     <div class="col-md">
                         <div class="card bg-secondary text-white">
                             <div class="card-body text-center">
-                                <?php include('cards/card-Muand-Ngoy.php'); ?>
+                                <?php include('cards/card-Mestia.php'); ?>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                             steps to get my adrenaline pumping. This sometimes lands me in interesting 
                             situations because, as I mentioned before, most of the time, I don't know what I'm doing.
                         </p>
-                        <a href="#" class="btn btn-secondary mt-3"> Georgian mountains
+                        <a href="/blog/posts/post-Mestia.php" class="btn btn-secondary mt-3"> Georgian mountains
                             <i class="bi bi-chevron-right"></i>
                         </a>
                     </div>

@@ -1,4 +1,4 @@
-<div class="h1 my-4">
+<div class="h1 my-2">
     <i class="bi bi-bar-chart-fill"></i>
 </div>
 <h3 class="card-title mb-3">

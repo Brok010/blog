@@ -6,10 +6,10 @@
         <div class="col-lg-3">
             <div class="list-group p-5">
                 <a href="asia.php" class="list-group-item list-group-item-action">Asia</a>
-                <a href="africa.php" class="list-group-item list-group-item-action disabled">Africa</a>
-                <a href="europe.php" class="list-group-item list-group-item-action disabled">Europe</a>
+                <a href="#" class="list-group-item list-group-item-action disabled">Africa</a>
+                <a href="europe.php" class="list-group-item list-group-item-action">Europe</a>
                 <a href="middle-east.php" class="list-group-item list-group-item-action">Middle East</a>
-                <a href="others.php" class="list-group-item list-group-item-action disabled">Others</a>
+                <a href="#" class="list-group-item list-group-item-action disabled">Others</a>
             </div>
         </div>
         <div class="col-lg-2"></div>

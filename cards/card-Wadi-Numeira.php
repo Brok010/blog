@@ -1,5 +1,6 @@
-<div class="h1 my-4">
-    <img src="img/Wadi-Numeira/1.jpg" alt="Title image for Wadi Numeira"  class="img-fluid img-thumbnail" style="height: 400px;">
+<div class="h1 my-2">
+    <img src="img/Wadi-Numeira/1.jpg" alt="Title image for Wadi Numeira"
+      class="img-fluid img-thumbnail" style="height: 300px;">
 </div>
 <h3 class="card-title mb-3">
     Wadi Numeira, Wadi Mujib
