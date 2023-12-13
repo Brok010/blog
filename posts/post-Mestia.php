@@ -68,26 +68,6 @@
         </div>
     </section>
 
-    <!-- images -->
-    <!-- <section>
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-md py-5 px-3">
-                    <img src="../img/Mestia/3.jpg" class="img-fluid" alt="ridge walk"/>   
-                </div>
-                <div class="col-md py-5 px-3">
-                    <img src="../img/Mestia/4.jpg" class="img-fluid" alt="descend on the snow"/>   
-                </div>
-                <div class="col-md py-5 px-3">
-                    <img src="../img/Mestia/5.jpg" class="img-fluid" alt="glacier under storm clouds"/>   
-                </div>
-                <div class="col-md py-5 px-3">
-                    <img src="../img/Mestia/6.jpg" class="img-fluid" alt="glacier under storm clouds"/>   
-                </div>
-            </div>
-        </div>
-    </section> -->
-
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
